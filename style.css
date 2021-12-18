@@ -1,0 +1,23 @@
+h1{
+    color: aqua;
+    align-items: center;
+}
+#input1{
+  border-radius: 2em;
+}
+button{
+    color: blue;
+    background-color: aliceblue;
+}
+h3{
+  justify-content: center;
+  align-items: center;
+  color: beige;
+}
+body{
+  background-color: blue;
+  align-items: center;
+  justify-content: center;
+  
+  
+}
